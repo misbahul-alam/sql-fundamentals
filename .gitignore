@@ -1,0 +1,27 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors & IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Local databases (if any)
+*.db
+*.sqlite
+*.sqlite3
+
+# Temporary / backup files
+*.tmp
+*.bak
+*.old
+
+# Environment files
+.env
+.env.*
+
