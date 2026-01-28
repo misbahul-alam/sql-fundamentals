@@ -33,7 +33,7 @@ SELECT "user"."name" FROM "user";
 
 ## 7. Example Query
 ```sql
-SELECT name, email FROM users WHERE created_at > '2024-01-01' ORDER BY name ASC;
+SELECT name, email FROM users WHERE created_at > '2026-01-01' ORDER BY name ASC;
 ```
 
 ## 8. Best Practices
