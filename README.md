@@ -33,7 +33,7 @@ It is suitable for **learning, revision, and interview preparation**.
 - Query optimization and common anti-patterns
 - Real-world example schemas and queries
 
-All examples follow **ANSI SQL**, with notes where database behavior differs.
+All examples follow **ANSI SQL**, with notes where database behavior differs. Example data and names are now consistent and neutral across all sections (DML, DQL, filtering, etc.) for clarity and universality.
 
 ### If You Are Preparing for Interviews
 
